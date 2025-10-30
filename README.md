@@ -101,3 +101,5 @@ It helps to:
 > Docker → Packs the app into a container.
 >
 > Kubernetes → Runs and manages those containers efficiently.
+>
+> Jenkins -> Automates CI/CD
